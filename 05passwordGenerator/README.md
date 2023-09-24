@@ -1,2 +1,2 @@
 # Reat
-Live link : <a href="https://pswdgenerater.netlify.app/">click here</a>
+Live link : <a href="https://pswdgenerater.netlify.app/" target="_blanck">click here</a>
